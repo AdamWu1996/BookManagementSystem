@@ -51,7 +51,7 @@
 
 - 開發語言：C# (.NET 9.0)
 - 資料庫：MySQL
-- 包來源：MySql.Data (9.2.0)
+- 專案套件：MySql.Data (9.2.0)
 - 模式：MVC 架構 + Repository 模式
 
 ## 安裝與使用
